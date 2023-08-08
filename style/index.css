@@ -579,7 +579,7 @@ h3.my-profession{
     transition: all 0.3s ease;
 }
 
-/* Code */
+/* */
 
 .service .service-item .service-item-inner .icon .fa img{
     width: 40px;
@@ -588,7 +588,7 @@ h3.my-profession{
     transition: all 0.3s ease;
 }
 
-/* Code */
+/* */
 
 .service .service-item .service-item-inner:hover .icon{
     background: var(--skin-color);
